@@ -1,0 +1,4 @@
+﻿  morning打地鼠游戏-8-23.cpp
+D:\vsc++代码\practice-2023-8-23\morning打地鼠游戏-8-23.cpp(43,12): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+D:\vsc++代码\practice-2023-8-23\morning打地鼠游戏-8-23.cpp(51,12): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+  practice-2023-8-23.vcxproj -> D:\vsc++代码\practice-2023-8-23\Debug\practice-2023-8-23.exe
