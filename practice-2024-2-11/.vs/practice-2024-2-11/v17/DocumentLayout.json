@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CC02CB-2C1F-46B1-B687-8871991ACB9C}|practice-2024-2-11.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-11\\afternoon-2-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51CC02CB-2C1F-46B1-B687-8871991ACB9C}|practice-2024-2-11.vcxproj|solutionrelative:afternoon-2-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "afternoon-2-11.c",
+              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-11\\afternoon-2-11.c",
+              "RelativeDocumentMoniker": "afternoon-2-11.c",
+              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-11\\afternoon-2-11.c",
+              "RelativeToolTip": "afternoon-2-11.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-23T14:29:35.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
