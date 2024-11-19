@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0623B8-0AED-4EE2-8D5C-49C177F581E7}|practice-2024-2-21.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-21\\afternoon\uFF08airplane\uFF09-2-21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0623B8-0AED-4EE2-8D5C-49C177F581E7}|practice-2024-2-21.vcxproj|solutionrelative:afternoon\uFF08airplane\uFF09-2-21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "afternoon\uFF08airplane\uFF09-2-21.cpp",
+              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-21\\afternoon\uFF08airplane\uFF09-2-21.cpp",
+              "RelativeDocumentMoniker": "afternoon\uFF08airplane\uFF09-2-21.cpp",
+              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-2-21\\afternoon\uFF08airplane\uFF09-2-21.cpp",
+              "RelativeToolTip": "afternoon\uFF08airplane\uFF09-2-21.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T09:01:25.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
