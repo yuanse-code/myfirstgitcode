@@ -1,0 +1,4 @@
+﻿  moring-2-22.c
+D:\vsc++代码\homework-2024-2-22\moring-2-22.c(12,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsc++代码\homework-2024-2-22\moring-2-22.c(7,8): warning C4090: “初始化”: 不同的“const”限定符
+  homework-2024-2-22.vcxproj -> D:\vsc++代码\homework-2024-2-22\x64\Debug\homework-2024-2-22.exe

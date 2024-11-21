@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-22(\u5B57\u7B26\u4E32\u51FD\u6570\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAE9BFE-332C-41CD-91A8-86E2CB8F9BA6}|homework-2024-2-22.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-22(\u5B57\u7B26\u4E32\u51FD\u6570\uFF09\\moring-2-22.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CAE9BFE-332C-41CD-91A8-86E2CB8F9BA6}|homework-2024-2-22.vcxproj|solutionrelative:moring-2-22.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "moring-2-22.c",
+              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-22(\u5B57\u7B26\u4E32\u51FD\u6570\uFF09\\moring-2-22.c",
+              "RelativeDocumentMoniker": "moring-2-22.c",
+              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-22(\u5B57\u7B26\u4E32\u51FD\u6570\uFF09\\moring-2-22.c",
+              "RelativeToolTip": "moring-2-22.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-22T02:31:22.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
