@@ -1,0 +1,15 @@
+﻿  noon-2-27.c
+D:\vsc++代码\homework-2024-2-27\noon-2-27.c(10,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\vsc++代码\homework-2024-2-27\noon-2-27.c(181,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\vsc++代码\homework-2024-2-27\noon-2-27.c(181,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\vsc++代码\homework-2024-2-27\noon-2-27.c(182,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\vsc++代码\homework-2024-2-27\noon-2-27.c(182,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\vsc++代码\homework-2024-2-27\noon-2-27.c(183,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\vsc++代码\homework-2024-2-27\noon-2-27.c(183,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  homework-2024-2-27.vcxproj -> D:\vsc++代码\homework-2024-2-27\x64\Debug\homework-2024-2-27.exe
