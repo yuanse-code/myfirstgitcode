@@ -1,0 +1,6 @@
+﻿  noon-2-28.c
+D:\vsc++代码\homework-2024-2-28\noon-2-28.c(74,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\vsc++代码\homework-2024-2-28\noon-2-28.c(74,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  homework-2024-2-28.vcxproj -> D:\vsc++代码\homework-2024-2-28\x64\Debug\homework-2024-2-28.exe

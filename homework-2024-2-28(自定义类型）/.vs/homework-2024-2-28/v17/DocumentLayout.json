@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F305202A-82FB-4BFD-9AC2-F130CB16D3A8}|homework-2024-2-28.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-28\\noon-2-28.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F305202A-82FB-4BFD-9AC2-F130CB16D3A8}|homework-2024-2-28.vcxproj|solutionrelative:noon-2-28.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "noon-2-28.c",
+              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-28\\noon-2-28.c",
+              "RelativeDocumentMoniker": "noon-2-28.c",
+              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-2-28\\noon-2-28.c",
+              "RelativeToolTip": "noon-2-28.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAHIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-28T04:29:54.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
