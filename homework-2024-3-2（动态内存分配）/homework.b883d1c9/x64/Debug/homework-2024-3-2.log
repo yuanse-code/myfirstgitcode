@@ -1,0 +1,259 @@
+﻿  moring-3-2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\windef.h(209,10): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\windef.h(209,41): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3088,17): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3088,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3134,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3134,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3148,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3148,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3176,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3176,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3194,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3194,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3221,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3221,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3235,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3235,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3475,13): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3475,18): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6502,12): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6502,17): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6707,16): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6707,16): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6707,16): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(6707,21): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14418,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14418,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14418,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14418,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14424,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14424,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14424,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14424,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14437,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14437,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14437,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14437,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14477,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14477,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14477,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14477,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14498,31): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14498,31): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14498,31): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(14498,36): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(3729,11): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winspool.h(3729,16): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oleidl.h(3938,50): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oleidl.h(3938,50): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oleidl.h(3938,50): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oleidl.h(3938,55): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\oleidl.h(3938,60): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(621,42): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(621,42): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(621,42): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(621,47): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(621,52): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(624,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(624,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(624,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(624,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(624,42): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(1652,39): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(1652,39): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(1652,39): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(1652,44): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(1652,49): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3832,42): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3832,42): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3832,42): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3832,47): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3832,52): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3836,32): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3836,32): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3836,32): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3836,37): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(3836,42): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5376,39): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5376,39): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5376,39): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5376,44): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5376,49): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5379,29): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5379,29): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5379,29): error C2059: 语法错误:“常数”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5379,34): error C2059: 语法错误:“)”
+  (编译源文件“moring-3-2.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\msxml.h(5379,39): error C2238: 意外的标记位于“;”之前
+  (编译源文件“moring-3-2.cpp”)
+  
