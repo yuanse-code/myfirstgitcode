@@ -1,0 +1,10 @@
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=0
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=1
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=2
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=3
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=4
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=5
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=6
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=7
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=8
+file:D:\vsc++代码\homework-2024-3-7\moring-3-7.c line:34 date:Mar  7 2024 time:12:55:06 i=9
