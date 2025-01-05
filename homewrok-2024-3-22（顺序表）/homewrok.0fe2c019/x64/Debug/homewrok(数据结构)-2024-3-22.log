@@ -1,0 +1,14 @@
+﻿  SeqList.c
+  night-3-22.c
+  正在生成代码...
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(35,7): warning C4133: “=”: 从“SLDateType *”到“SL *”的类型不兼容
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(44,14): warning C4133: “=”: 从“SL *”到“SLDateType *”的类型不兼容
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(66,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(91,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(95,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(106,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(145,64): warning C4090: “函数”: 不同的“const”限定符
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(145,51): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(150,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsc++代码\homewrok-2024-3-22（顺序表）\SeqList.c(161,1): warning C4715: “SeqListBinaryFind”: 不是所有的控件路径都返回值
+  homewrok(数据结构)-2024-3-22.vcxproj -> D:\vsc++代码\homewrok-2024-3-22（顺序表）\x64\Debug\homewrok(数据结构)-2024-3-22.exe
