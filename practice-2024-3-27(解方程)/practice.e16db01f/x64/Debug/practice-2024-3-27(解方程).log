@@ -1,0 +1,5 @@
+﻿  calculator.c
+  night-3-27.c
+  正在生成代码...
+D:\vsc++代码\practice-2024-3-27(解方程)\calculator.c(27,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  practice-2024-3-27(解方程).vcxproj -> D:\vsc++代码\practice-2024-3-27(解方程)\x64\Debug\practice-2024-3-27(解方程).exe

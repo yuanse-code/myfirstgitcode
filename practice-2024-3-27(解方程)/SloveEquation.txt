@@ -1,0 +1,4 @@
+ABC=a
+ABk+AjC+iBC=b
+Ajk+iBk+ijC=c
+ijk=d
