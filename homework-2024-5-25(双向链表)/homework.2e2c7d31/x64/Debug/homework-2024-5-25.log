@@ -1,0 +1,17 @@
+﻿  List.c
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(32,7): warning C4133: “=”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(28,12): warning C4133: “初始化”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(39,18): warning C4133: “=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(62,18): warning C4133: “函数”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(74,17): warning C4133: “函数”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(84,7): warning C4133: “=”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(79,12): warning C4133: “初始化”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(93,16): warning C4133: “=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(95,16): warning C4133: “=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(101,2): warning C4133: “!=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(105,16): warning C4133: “=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(103,12): warning C4133: “初始化”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(119,14): warning C4133: “=”: 从“ListNode *”到“listNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(112,12): warning C4133: “初始化”: 从“listNode *”到“ListNode *”的类型不兼容
+D:\vsc++代码\homework-2024-5-25(双向链表)\List.c(115,13): warning C4133: “初始化”: 从“listNode *”到“ListNode *”的类型不兼容
+  homework-2024-5-25.vcxproj -> D:\vsc++代码\homework-2024-5-25(双向链表)\x64\Debug\homework-2024-5-25.exe
