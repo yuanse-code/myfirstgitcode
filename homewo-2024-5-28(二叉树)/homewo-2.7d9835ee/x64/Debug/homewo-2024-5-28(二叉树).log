@@ -1,0 +1,13 @@
+﻿  Tree.c
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(15,3): warning C4098: “BinaryTreeDestory”:“void”函数返回值
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(144,28): warning C4028: 形参 1 与声明不同
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(154,28): warning C4028: 形参 1 与声明不同
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(184,4): warning C4013: “FindHeadRoot”未定义；假设外部返回 int
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(272,10): warning C4090: “初始化”: 不同的“const”限定符
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(290,3): warning C4090: “return”: 不同的“const”限定符
+  afternoon-5-28.c
+D:\vsc++代码\homewo-2024-5-28(二叉树)\afternoon-5-28.c(34,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+D:\vsc++代码\homewo-2024-5-28(二叉树)\afternoon-5-28.c(35,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+  正在生成代码...
+D:\vsc++代码\homewo-2024-5-28(二叉树)\Tree.c(346,1): warning C4715: “SearchNode”: 不是所有的控件路径都返回值
+  homewo-2024-5-28(二叉树).vcxproj -> D:\vsc++代码\homewo-2024-5-28(二叉树)\x64\Debug\homewo-2024-5-28(二叉树).exe
