@@ -1,0 +1,11 @@
+﻿  night-2024-6-7.c
+D:\vsc++代码\practice-2024-6-7(窗口)\night-2024-6-7.c(56,1): warning C4026: 使用形参表声明的函数
+D:\vsc++代码\practice-2024-6-7(窗口)\night-2024-6-7.c(53,5): warning C4273: “MessageBoxW”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1):
+  参见“MessageBoxW”的前一个定义
+  
+D:\vsc++代码\practice-2024-6-7(窗口)\night-2024-6-7.c(73,21): warning C4113: “LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM,HWND)”和“WNDPROC”的参数列表不同
+D:\vsc++代码\practice-2024-6-7(窗口)\night-2024-6-7.c(58,1): warning C4716: “MessageBoxW”: 必须返回一个值
+    正在创建库 D:\vsc++代码\practice-2024-6-7(窗口)\x64\Debug\practice-2024-6-7(窗口).lib 和对象 D:\vsc++代码\practice-2024-6-7(窗口)\x64\Debug\practice-2024-6-7(窗口).exp
+LINK : warning LNK4232: 名称 practice-2024-6-7(窗口).exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  practice-2024-6-7(窗口).vcxproj -> D:\vsc++代码\practice-2024-6-7(窗口)\x64\Debug\practice-2024-6-7(窗口).exe
