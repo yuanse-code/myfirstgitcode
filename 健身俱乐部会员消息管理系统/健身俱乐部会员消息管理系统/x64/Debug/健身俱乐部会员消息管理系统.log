@@ -1,0 +1,13 @@
+﻿  avlTree.cpp
+  contact.cpp
+E:\vsc代码\健身俱乐部会员消息管理系统\avlTree.cpp(18,20): warning C4477: “fprintf”: 格式字符串“%2d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  Queue.cpp
+  健身俱乐部会员消息管理系统.cpp
+E:\vsc代码\健身俱乐部会员消息管理系统\健身俱乐部会员消息管理系统.cpp(7,9): warning C4005: “UNICODE”: 宏重定义
+E:\vsc代码\健身俱乐部会员消息管理系统\健身俱乐部会员消息管理系统.cpp(149,19): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+E:\vsc代码\健身俱乐部会员消息管理系统\健身俱乐部会员消息管理系统.cpp(223,19): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+  正在生成代码...
+E:\vsc代码\健身俱乐部会员消息管理系统\contact.cpp(202,1): warning C4715: “SearchContact”: 不是所有的控件路径都返回值
+E:\vsc代码\健身俱乐部会员消息管理系统\contact.cpp(141,1): warning C4715: “FindContactByname”: 不是所有的控件路径都返回值
+E:\vsc代码\健身俱乐部会员消息管理系统\avlTree.cpp(372,1): warning C4715: “SearchNode”: 不是所有的控件路径都返回值
+  健身俱乐部会员消息管理系统.vcxproj -> E:\vsc代码\健身俱乐部会员消息管理系统\x64\Debug\健身俱乐部会员消息管理系统.exe

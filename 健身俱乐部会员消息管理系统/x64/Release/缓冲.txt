@@ -1,0 +1,4 @@
+通讯录为空，快去添加吧
+LoadContact:No such file or directory
+LoadContact:No such file or directory
+LoadContact:No such file or directory
