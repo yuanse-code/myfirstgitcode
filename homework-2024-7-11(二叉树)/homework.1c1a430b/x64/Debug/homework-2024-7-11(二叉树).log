@@ -1,0 +1,28 @@
+﻿  morning-7-11.c
+D:\vsc++代码\homework-2024-7-11(二叉树)\Queue.h(9,29): warning C4091: “extern ”: 没有声明变量时忽略“BinaryTreeNode”的左侧
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(23,16): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(24,16): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(34,14): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(36,14): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(46,16): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(47,16): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(79,27): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(79,51): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(88,26): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(88,54): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(106,34): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(107,28): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(118,36): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(121,28): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(130,18): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(131,18): warning C4133: “函数”: 从“BinaryTree *”到“BTNode *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(149,22): warning C4133: “函数”: 从“BinaryTree *”到“QDataType”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(152,23): warning C4133: “函数”: 从“BinaryTree *”到“QDataType”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(175,22): warning C4133: “函数”: 从“BinaryTree *”到“QDataType”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(176,22): warning C4133: “函数”: 从“BinaryTree *”到“QDataType”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(199,11): warning C4133: “=”: 从“BTNode *”到“BinaryTree *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(200,12): warning C4133: “=”: 从“BTNode *”到“BinaryTree *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(201,11): warning C4133: “=”: 从“BTNode *”到“BinaryTree *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(202,12): warning C4133: “=”: 从“BTNode *”到“BinaryTree *”的类型不兼容
+D:\vsc++代码\homework-2024-7-11(二叉树)\morning-7-11.c(124,1): warning C4715: “BinaryTreeFind”: 不是所有的控件路径都返回值
+  homework-2024-7-11(二叉树).vcxproj -> D:\vsc++代码\homework-2024-7-11(二叉树)\x64\Debug\homework-2024-7-11(二叉树).exe
