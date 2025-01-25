@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|solutionrelative:Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|solutionrelative:Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\morning-7-13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|solutionrelative:morning-7-13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E041AFC-FFF8-460C-A1B7-F32662272A72}|homework-2024-7-13(\u6392\u5E8F).vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.h",
+              "DocumentMoniker": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T00:39:56.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort.h",
+              "DocumentMoniker": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.h",
+              "RelativeDocumentMoniker": "Sort.h",
+              "ToolTip": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.h",
+              "RelativeToolTip": "Sort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T01:25:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort.c",
+              "DocumentMoniker": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.c",
+              "RelativeDocumentMoniker": "Sort.c",
+              "ToolTip": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\Sort.c",
+              "RelativeToolTip": "Sort.c",
+              "ViewState": "AQIAAIkAAAAAAAAAAIAxwJMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-13T01:23:58.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "morning-7-13.c",
+              "DocumentMoniker": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\morning-7-13.c",
+              "RelativeDocumentMoniker": "morning-7-13.c",
+              "ToolTip": "E:\\vsc\u4EE3\u7801\\homework-2024-7-13(\u6392\u5E8F)\\morning-7-13.c",
+              "RelativeToolTip": "morning-7-13.c",
+              "ViewState": "AQIAAEUAAAAAAAAAAIAxwFcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-13T01:23:44.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
