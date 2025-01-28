@@ -1,4 +1,2 @@
-通讯录为空，快去添加吧
-LoadContact:No such file or directory
-LoadContact:No such file or directory
-LoadContact:No such file or directory
+序号	会员号      	名字      	年龄	性别 	电话                	地址                	办理日期    	有效日期    
+ 1	771091198   	\\\       	1747792576	性别 	电话                	地址                	15年23月2日	15年23月2日
