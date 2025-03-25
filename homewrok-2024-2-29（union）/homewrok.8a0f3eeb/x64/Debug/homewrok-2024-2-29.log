@@ -1,0 +1,6 @@
+﻿  afternoon-2-29.c
+E:\GitProcject\myfirstgitcode\homewrok-2024-2-29（联合体）\afternoon-2-29.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\GitProcject\myfirstgitcode\homewrok-2024-2-29（联合体）\afternoon-2-29.c(12,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  homewrok-2024-2-29.vcxproj -> E:\GitProcject\myfirstgitcode\homewrok-2024-2-29（联合体）\x64\Debug\homewrok-2024-2-29.exe
