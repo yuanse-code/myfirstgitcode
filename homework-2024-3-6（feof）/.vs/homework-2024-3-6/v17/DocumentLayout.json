@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-3-6\uFF08feof\uFF09\\",
+  "WorkspaceRootPath": "E:\\GitProcject\\myfirstgitcode\\homework-2024-3-6\uFF08feof\uFF09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{112E6E1A-9C18-4402-8AEE-AB9400B0AB17}|homework-2024-3-6.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{112E6E1A-9C18-4402-8AEE-AB9400B0AB17}|homework-2024-3-6.vcxproj|E:\\GitProcject\\myfirstgitcode\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{112E6E1A-9C18-4402-8AEE-AB9400B0AB17}|homework-2024-3-6.vcxproj|solutionrelative:afternoon-3-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "afternoon-3-6.c",
-              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c",
+              "DocumentMoniker": "E:\\GitProcject\\myfirstgitcode\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c",
               "RelativeDocumentMoniker": "afternoon-3-6.c",
-              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c",
+              "ToolTip": "E:\\GitProcject\\myfirstgitcode\\homework-2024-3-6\uFF08feof\uFF09\\afternoon-3-6.c",
               "RelativeToolTip": "afternoon-3-6.c",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAACAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-06T07:15:09.086Z",
               "EditorCaption": ""
