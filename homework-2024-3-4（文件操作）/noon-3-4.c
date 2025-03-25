@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-#include "D:/vsc++ДњТы/mine.h"
+#include "mine.h"
 #include <errno.h>
 #include <Windows.h>
 
