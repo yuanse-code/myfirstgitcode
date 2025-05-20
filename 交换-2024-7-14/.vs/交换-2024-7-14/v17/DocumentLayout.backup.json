@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\GitProcject\\myfirstgitcode\\\u4EA4\u6362-2024-7-14\\",
+  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\\u4EA4\u6362-2024-7-14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52333B1E-B3D1-4F8B-B646-720A762C2387}|\u4EA4\u6362-2024-7-14.vcxproj|E:\\GitProcject\\myfirstgitcode\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{52333B1E-B3D1-4F8B-B646-720A762C2387}|\u4EA4\u6362-2024-7-14.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52333B1E-B3D1-4F8B-B646-720A762C2387}|\u4EA4\u6362-2024-7-14.vcxproj|solutionrelative:afternoon-7-14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "afternoon-7-14.c",
-              "DocumentMoniker": "E:\\GitProcject\\myfirstgitcode\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c",
+              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c",
               "RelativeDocumentMoniker": "afternoon-7-14.c",
-              "ToolTip": "E:\\GitProcject\\myfirstgitcode\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c",
+              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\\u4EA4\u6362-2024-7-14\\afternoon-7-14.c",
               "RelativeToolTip": "afternoon-7-14.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-14T07:32:41.973Z",
               "EditorCaption": ""
