@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-8-19\\",
+  "WorkspaceRootPath": "E:\\GitProcject\\myfirstgitcode\\practice-2024-8-19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFBE0CD2-52CF-476F-8B60-96CD82ED59EF}|practice-2024-8-19.vcxproj|D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-8-19\\afternoon-8-19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFBE0CD2-52CF-476F-8B60-96CD82ED59EF}|practice-2024-8-19.vcxproj|E:\\GitProcject\\myfirstgitcode\\practice-2024-8-19\\afternoon-8-19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFBE0CD2-52CF-476F-8B60-96CD82ED59EF}|practice-2024-8-19.vcxproj|solutionrelative:afternoon-8-19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "afternoon-8-19.cpp",
-              "DocumentMoniker": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-8-19\\afternoon-8-19.cpp",
+              "DocumentMoniker": "E:\\GitProcject\\myfirstgitcode\\practice-2024-8-19\\afternoon-8-19.cpp",
               "RelativeDocumentMoniker": "afternoon-8-19.cpp",
-              "ToolTip": "D:\\vsc\u002B\u002B\u4EE3\u7801\\practice-2024-8-19\\afternoon-8-19.cpp",
+              "ToolTip": "E:\\GitProcject\\myfirstgitcode\\practice-2024-8-19\\afternoon-8-19.cpp",
               "RelativeToolTip": "afternoon-8-19.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-19T09:19:45.804Z",
               "EditorCaption": ""
